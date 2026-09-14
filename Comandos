@@ -1,0 +1,5 @@
+git init
+git add 'nome_arquivo'
+git commit -m "mensagem de teste"
+git status
+git log 
