@@ -1,0 +1,4 @@
+$ git init Repositório Git vazio inicializado em /meu-projeto/ 
+$ git add app.py 
+$ git commit -m "Primeira versão do sistema" 1 arquivo alterado, 12 inserções(+) 
+$ git log commit a1b2c3d — Primeira versão do sistema
